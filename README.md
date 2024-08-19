@@ -8,7 +8,7 @@ This program counts the number of every type of license for every region of a co
    git clone https://github.com/wheesinsty/count-licenses-by-region.git
 2. Go to the repository
    ```bash
-   cd path
+   cd [insert path to the repository]
 3. Install dependencies
    ```bash
    pip install -r requirements.txt

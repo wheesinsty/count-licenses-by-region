@@ -5,7 +5,8 @@ This module counts the number of licenses utilised in each region from a list of
 To use this software, ensure that
 1. Install python from the internet
 2. In your terminal, install pip with 
-`python -m ensurepip --upgrade`
+   ```bash
+   python -m ensurepip --upgrade
 3. Clone the repository
    ```bash
    git clone https://github.com/wheesinsty/count-licenses-by-region.git
@@ -18,11 +19,14 @@ To use this software, ensure that
 
 ## Usage
 1. In the terminal, enter
-`python count_licenses_by_region.py`
+```bash
+python count_licenses_by_region.py
 3. Enter the path to the excel sheet containing the users. E.g.
-`Downloads/users_8_19_2024 1_55_59 AM.csv`
+```bash
+Downloads/users_8_19_2024 1_55_59 AM.csv
 4. Enter the path to the excel sheet containing the number of licenses. E.g.
-`Downloads/ProductList_19_8_2024_10_03_10_am.csv`
+```bash
+Downloads/ProductList_19_8_2024_10_03_10_am.csv
 
 ## Contribution
 Thank you to Herman and Clarice for giving me the opportunity to complete this project and contribute to the team :)

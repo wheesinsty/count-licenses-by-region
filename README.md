@@ -3,17 +3,18 @@ This module counts the number of licenses utilised in each region from a list of
 
 ## Set-up
 To use this software, ensure that
-1. 1. Install `python` and `git` from the internet
-2. In your terminal, install pip with 
+1. Install `python` and `git` from the internet
+   
+3. In your terminal, install pip with 
    ```bash
    python -m ensurepip --upgrade
-3. Clone the repository
+4. Clone the repository
    ```bash
    git clone https://github.com/wheesinsty/count-licenses-by-region.git
-4. Go to the repository
+5. Go to the repository
    ```bash
    cd [insert path to the repository]
-5. Install dependencies
+6. Install dependencies
    ```bash
    pip install -r requirements.txt
 
